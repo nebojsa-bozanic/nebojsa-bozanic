@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm Nebojsa! I'm an ex CompNeuro Postdoc at Stanford University, and I'm currently in the process of building my first startup - Aneural. I am passionate about brining (further more) AI to Computational Neuroscience and Healthcare.
 
 <!--
 **nebojsa-bozanic/nebojsa-bozanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
