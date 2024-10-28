@@ -1,4 +1,4 @@
-Hi, I'm Nebojsa and I am passionate about brining (further more) AI to Computational Neuroscience and Healthcare.
+Hi, I'm Nebojsa and I am passionate about bringing (further more) AI to Computational Neuroscience and Healthcare.
 
 <!--
 **nebojsa-bozanic/nebojsa-bozanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
